@@ -136,8 +136,15 @@ To see what this theme looks like when the terminal emulator is set with differe
 *   [Default dark colors of PuTTY on Windows](https://github.com/huyz/dircolors-solarized/raw/master/img/screen-dircolors-in-PuTTY-dark_default.png)
 *   [Default light colors of PuTTY on Windows](https://github.com/huyz/dircolors-solarized/raw/master/img/screen-dircolors-in-PuTTY-light_system.png) (Select "Use system colors")
 
+## Installation
 
-<h2 id="installation">Installation</h2>
+If you are using zplug, you can install this plugin using zplug.
+
+```zsh
+zplug 'sei40kr/dircolors-solarized', use:'*.256dark.zsh'
+```
+
+## Manual Installation
 
 ### Downloads
 
